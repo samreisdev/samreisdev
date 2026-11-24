@@ -38,60 +38,69 @@ Além de desenvolver software, sigo aprofundando meus conhecimentos em engenhari
 
 ---
 
-## 🚀 Trabalhos selecionados
+## 🚀 Projetos e experiências técnicas
 
-Uma seleção de projetos e experiências que representam diferentes áreas do meu trabalho com desenvolvimento de software.
+Projetos e trabalhos que demonstram minha experiência prática com desenvolvimento de software, desde aplicações de gestão comercial até plataformas web, interfaces administrativas e documentação técnica.
 
-### 🖥️ Sistema PDV — Gestão para Distribuidora
+### 🖥️ Sistema PDV | Gestão Comercial e Controle de Estoque
 
 **Status: Finalizado, testado e aprovado.**
 
-Sistema desktop desenvolvido para atender às necessidades operacionais de uma distribuidora, com regras de negócio personalizadas.
+Sistema desktop de gestão comercial desenvolvido para atender às necessidades de uma operação real, reunindo funcionalidades de frente de caixa, gerenciamento de produtos, controle de estoque e processamento de vendas.
 
-**Funcionalidades:**
+O software foi estruturado com regras de negócio personalizadas, permitindo organizar processos comerciais e adaptar condições de venda às necessidades da operação.
+
+**Principais funcionalidades:**
+
 - Frente de caixa e processamento de vendas.
-- Gestão de produtos, preços e estoque.
-- Promoções e condições comerciais específicas.
+- Cadastro e gerenciamento de produtos.
+- Controle de preços e estoque.
+- Promoções e regras comerciais personalizadas.
 - Múltiplas formas de pagamento.
 - Controle de caixa e histórico de operações.
 - Relatórios e acompanhamento de movimentações.
-- Rotinas de backup e armazenamento local.
-- Instalador para ambiente Windows.
+- Armazenamento local e rotinas de backup.
+- Instalação em ambiente Windows.
 
 **Tecnologias:** C#, .NET, Windows Forms e SQLite.
 
-O projeto envolveu desenvolvimento de interface, persistência de dados, regras comerciais, validações, testes e preparação para utilização real.
+**Desenvolvimento:** Interface desktop, persistência de dados, modelagem de banco de dados, implementação de regras comerciais, validações e testes.
 
-### 🌐 Sam Tech — Plataforma Institucional
+O projeto representa uma aplicação prática de desenvolvimento de software voltada à organização e ao gerenciamento de operações comerciais.
 
-Site institucional desenvolvido para apresentar serviços, soluções e a identidade digital da Sam Tech.
+### 🌐 Sam Tech | Plataforma Web Institucional
+
+Site institucional desenvolvido para apresentar os serviços, soluções e a identidade digital da Sam Tech.
 
 **Recursos implementados:**
-- Interface responsiva.
+
+- Interface responsiva para desktop e dispositivos móveis.
 - Componentes reutilizáveis.
 - Formulário de contato com validação no servidor.
-- Proteções contra abuso e envios automatizados.
-- Estrutura para SEO e acessibilidade.
+- Mecanismos de proteção contra abuso e envios automatizados.
+- Estrutura voltada a SEO e acessibilidade.
 - Testes automatizados e verificações de qualidade.
 - Integração com infraestrutura de hospedagem.
 
 **Tecnologias:** TypeScript, Next.js, CSS e Cloudflare Workers.
 
+O desenvolvimento envolveu organização da arquitetura, implementação de interfaces, integração de serviços e atenção a aspectos de segurança e manutenção.
+
 [Conhecer o site da Sam Tech](https://samtech-web.com.br/)
 
-### 📊 Sam Tech Dashboard — Demonstração de Sistema Administrativo
+### 📊 Sam Tech Dashboard | Interface Administrativa
 
-Protótipo interativo desenvolvido para explorar a organização visual e funcional de um painel administrativo.
+Projeto demonstrativo desenvolvido para explorar a estrutura visual e funcional de uma plataforma de administração.
 
-Inclui áreas de projetos, clientes, recebimentos, relatórios e configurações.
+A interface apresenta módulos de gerenciamento de projetos, clientes, recebimentos, relatórios e configurações.
 
-**Categoria:** Projeto demonstrativo com dados fictícios.
+**Categoria:** Protótipo demonstrativo com dados fictícios.
 
 ### 🔐 Análise Técnica de Segurança e Privacidade
 
-Trabalho de avaliação técnica e consolidação de documentação sobre segurança e privacidade de uma aplicação web comercial.
+Trabalho de análise e documentação técnica envolvendo aspectos de segurança e privacidade de uma aplicação web.
 
-Envolveu análise de riscos documentados, organização de evidências, recomendações de correção e critérios para validação posterior.
+Incluiu organização de evidências, identificação de riscos, recomendações de correção e definição de critérios para validação.
 
 **Área:** Qualidade de software, segurança web e documentação técnica.
 
@@ -100,7 +109,7 @@ Envolveu análise de riscos documentados, organização de evidências, recomend
 ## ⚙️ Áreas de atuação
 
 - Desenvolvimento de sites e aplicações web.
-- Sistemas desktop e ferramentas de gestão.
+- Sistemas desktop e ferramentas de gestão comercial.
 - Soluções digitais personalizadas para empresas.
 - Modelagem e integração com bancos de dados.
 - Integrações e automações de processos.
